@@ -26,12 +26,12 @@ while(facts){
 }
 
 
-function iLoveTheBeatles(Number){
+function iLoveTheBeatles(num){
  var result= [];
   do {
   result.push("I love the Beatles!")
-  ; Number++;
-} while (Number < 15);
+  ; num++;
+} while (num < 15);
 
 console.log(result);
 }
