@@ -30,7 +30,7 @@ function iLoveTheBeatles(num){
  var result= [];
   do {
   result.push("I love the Beatles!");
-  ; num++;
+   num++;
 } while (num < 15);
 
 console.log(result);
