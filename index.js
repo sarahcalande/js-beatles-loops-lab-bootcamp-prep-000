@@ -9,7 +9,7 @@ var code = [];
 
 
 function johnLennonFacts(){
-  var facts = [];
+  var array = [];
      var newFacts = [];
     var i = 0;
     while (i < facts.length) {
