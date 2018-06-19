@@ -29,8 +29,8 @@ while(facts){
 function iLoveTheBeatles(Number){
  var result= [];
  var i = 0
-  do {"I love the Beatles!" 
-  result = result * i;
+  do {
+  result = "I love the Beatles!"  * i;
 } while (i < 15);
 
 console.log(result);
