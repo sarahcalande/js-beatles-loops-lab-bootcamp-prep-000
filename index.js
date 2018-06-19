@@ -8,7 +8,7 @@ var code = [];
 }
 
 
-function johnLennonFacts(){
+function johnLennonFacts(array){
   var array = [];
      var newFacts = [];
     var i = 0;
