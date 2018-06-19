@@ -28,7 +28,6 @@ while(facts){
 
 function iLoveTheBeatles(Number){
  var result= [];
- var i = 0;
   do {
   result.push("I love the Beatles!")
   ; Number++;
