@@ -26,7 +26,7 @@ while(facts){
 }
 
 
-function iLoveTheBeatles(i){
+function iLoveTheBeatles(Number){
  var result= [];
   do {
   result.push("I love the Beatles!")
