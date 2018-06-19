@@ -26,11 +26,12 @@ while(facts){
 }
 
 
-function iLoveTheBeatles(Number){
+function iLoveTheBeatles(i){
  var result= [];
  var i = 0
   do {
-  result.push("I love the Beatles!") * i;
+  result.push("I love the Beatles!")
+  ;
 } while (i < 15);
 
 console.log(result);
