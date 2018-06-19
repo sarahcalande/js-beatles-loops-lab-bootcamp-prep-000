@@ -9,10 +9,9 @@ var code = [];
 
 
 function johnLennonFacts(array){
-  var array = [];
      var newFacts = [];
     var i = 0;
-    while (i < facts.length) {
+    while (i < array.length) {
         newFacts.push(facts[i] +"!!!");
         i++;
     }
